@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  highway:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-05T09:18:39.205477+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d1a1e625d353fcdf7d67bb078f79ce809ff54dea3726d44d5543963152992ab6
+    name: highway
+    type: application
+    urls:
+    - highway-0.1.0.tgz
+    version: 0.1.0
+  sentra:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-05T09:18:39.2070427+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 31c28b7e84d30700757ca964811417b412b33180ac0ce643002f5cfb968f8f21
+    name: sentra
+    type: application
+    urls:
+    - sentra-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-05T09:18:39.2006304+05:30"
